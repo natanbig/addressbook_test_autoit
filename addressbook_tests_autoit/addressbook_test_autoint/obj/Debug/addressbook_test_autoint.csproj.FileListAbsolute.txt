@@ -1,0 +1,15 @@
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\AutoItX3.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\AutoItX3_x64.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\addressbook_test_autoint.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\addressbook_test_autoint.pdb
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\nunit.framework.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\nunit.framework.xml
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\obj\Debug\addressbook_test_autoint.csprojResolveAssemblyReference.cache
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\obj\Debug\addressbook_test_autoint.csproj.ResolveComReference.cache
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\obj\Debug\addressbook_test_autoint.dll
+C:\Users\natan.radostin\Documents\GitHub\addressbook_test_autoit\addressbook_tests_autoit\addressbook_test_autoint\obj\Debug\addressbook_test_autoint.pdb
